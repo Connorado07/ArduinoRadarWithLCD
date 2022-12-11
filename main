@@ -1,6 +1,7 @@
 #include <Servo.h>
 #include <LiquidCrystal.h>
 
+//PROJECT MADE BY Connor D, Elijah S, & Steven H
 
 LiquidCrystal screen(12, 11, 5, 4, 3, 2);
 
